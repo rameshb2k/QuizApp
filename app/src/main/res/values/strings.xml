@@ -1,0 +1,28 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Quiz App</string>
+
+    <string name="q1">Q1 - What of the following is the default value of a local variable?</string>
+    <string name="q1a"> null</string>
+    <string name="q1b"> 0</string>
+    <string name="q1c"> Depends upon the type of variable</string>
+    <string name="q1d"> Not assigned</string>
+
+    <string name="q2">Q2 - Which of the following is a correct way to concatenate string \"World!\" to string variable hello. (more than 1 answer)</string>
+    <string name="q2a">hello = hello + \" World!\";</string>
+    <string name="q2b">String hello = \"Hello\" + \" World!\";</string>
+    <string name="q2c">hello += \" World!\";</string>
+    <string name="q2d">hello.concat(" World!");</string>
+
+    <string name="q3">Q3 - What is the size of double variable? (Type in the number of bits)</string>
+
+    <string name="q4">Q4 - Inheritance represents</string>
+    <string name="q4a"> HAS-A relationship.</string>
+    <string name="q4b"> IS-A relationship</string>
+
+    <string name="q5">Q5 - What is the correct syntax for main method of a java class?</string>
+    <string name="q5a"> public static int main(String[] args)</string>
+    <string name="q5b"> public int main(String[] args)</string>
+    <string name="q5c"> public static void main(String[] args)</string>
+    <string name="q5d"> None of the above</string>
+
+</resources>
